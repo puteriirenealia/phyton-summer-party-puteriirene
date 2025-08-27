@@ -1,2 +1,2 @@
-# phyton-summer-party-puteriirene
+# python-summer-party-puteriirene
 Python Summer Party by InterviewMaster
